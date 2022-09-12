@@ -8,7 +8,7 @@
               
               @SpringBootApplication
               @RestController
-              public class DemoApplication {
+              public class DemoApplication { 
                 
                   
                   public static void main(String[] args) {
